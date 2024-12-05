@@ -1,4 +1,4 @@
-# CS-Benchmark-Cases-for-Urban-Scale-Microclimate-Simulations
+# Benchmark Cases for Urban-Scale Microclimate Simulations
 
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="250px">
 
