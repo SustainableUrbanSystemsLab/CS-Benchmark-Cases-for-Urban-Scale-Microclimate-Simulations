@@ -22,6 +22,7 @@ design interventions, mitigate UHI impacts, and optimize urban energy performanc
 
 - Name: Shruti Sharad Jadhav
 - Email: sjadhav60@gatech.edu
+- Linkedin: https://www.linkedin.com/in/shrutijadhav2703/
 - Institution: Georgia Institute of Technology
 - Program: M.S. Arch (High Performance Building)
 - Supervisor: Dr. Patrick Kastner
