@@ -5,7 +5,18 @@
 
 ## Abstract
 
-[Provide a brief summary of your thesis, highlighting the main research question, methodology, and key findings.]
+Urban microclimatic analysis is essential in addressing challenges of urbanization and climate change, particularly the Urban
+Heat Island (UHI) effect. Urban areas often experience significantly higher temperatures than their rural surroundings due to
+the concentration of built surfaces and reduced vegetation. Studies estimate that UHI can increase daytime temperatures in U.S.
+cities by approximately 1°C to 7°C and night-time temperatures by about 2°C to 5°C. (Drukenmiller, 2024)This research
+introduces a framework employing canonical urban geometries to bridge the gap between theoretical microclimatic principles
+and practical urban design applications. Developed through a systematic study of urban typologies, these geometries represent
+diverse layouts, incorporating metrics like Sky View Factor (SVF), Aspect Ratio (AR), and Vegetation Cover.
+Unlike traditional EPW files, which lack the granularity required for microclimatic precision, this approach enhances simulation
+accuracy by integrating localized urban configurations. Canonical geometries capture critical interactions between urban form
+and environmental factors, enabling comprehensive evaluations of wind flow, heat retention, and cooling strategies. Through
+a comparative analysis of global urban layouts, this research demonstrates how tailored geometries can inform sustainable
+design interventions, mitigate UHI impacts, and optimize urban energy performance.
 
 ## Author
 
@@ -27,7 +38,7 @@
 
 ## Keywords
 
-[List the main keywords or topics related to your thesis.]
+Canonical Urban Geometries, Urban Microclimate, Microclimate Simulation, Heat Retention, Thermal Comfort.
 
 ## License
 
@@ -35,8 +46,8 @@
 
 ## Citation
 
-[Provide instructions on how to cite your thesis. Include the recommended citation format.]
+Jadhav, S. (2024). Baseline: Benchmarking Scenarios for Environmental Layouts and Integrative Neighbourhood Evaluation. Georgia Institute of Technology.
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email Address].
+For any questions or inquiries, please contact Shruti Jadhav at sjadhav60@gatech.edu .
