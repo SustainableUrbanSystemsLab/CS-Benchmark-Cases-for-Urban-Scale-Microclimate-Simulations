@@ -8,12 +8,12 @@
 
 ## Author
 
-- Name: [Your Name]
-- Email: [Your Email Address]
-- Institution: [Your Institution]
-- Program: [Bachelor's/Master's/PhD]
-- Supervisor: [Supervisor's Name]
-
+- Name: Shruti Sharad Jadhav
+- Email: sjadhav60@gatech.edu
+- Institution: Georgia Institute of Technology
+- Program: M.S. Arch (High Performance Building)
+- Supervisor: Dr. Patrick Kastner
+  
 ## Repository Structure
 
 - `thesis.pdf`: The final version of the thesis in PDF format.
