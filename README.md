@@ -1,6 +1,6 @@
 # Benchmark Cases for Urban-Scale Microclimate Simulations
 
-![Graphical Abstract](https://github.com/user-attachments/assets/a6283b46-b16a-4ad6-89a8-77e03e7d7dec)
+![Graphical Abstract](./Figures/GraphicalAbstract.png)
 
 
 ## Abstract
