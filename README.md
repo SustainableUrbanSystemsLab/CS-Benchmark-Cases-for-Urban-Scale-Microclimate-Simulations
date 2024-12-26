@@ -41,7 +41,7 @@ design interventions, mitigate UHI impacts, and optimize urban energy performanc
 
 ## Keywords
 
-Canonical Urban Geometries, Urban Microclimate, Microclimate Simulation, Heat Retention, Thermal Comfort.
+`Urban Geometries`, `Urban Microclimate`, `Microclimate Simulation`, `Heat Retention`, `Thermal Comfort`
 
 
 
