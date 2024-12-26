@@ -1,4 +1,4 @@
-# Benchmark Cases for Urban-Scale Microclimate Simulations
+# BASELINE: Benchmarking Scenarios for Environmental Layouts and Integrative Neighbourhood Evaluation
 
 ![Graphical Abstract](./Figures/GraphicalAbstract.png)
 
@@ -51,4 +51,4 @@ Jadhav, S. (2024). BASELINE: Benchmarking Scenarios for Environmental Layouts an
 
 ## Contact
 
-For any questions or inquiries, please contact Shruti Jadhav at sjadhav60@gatech.edu .
+For any questions or inquiries, please contact Shruti Jadhav at sjadhav60@gatech.edu.
