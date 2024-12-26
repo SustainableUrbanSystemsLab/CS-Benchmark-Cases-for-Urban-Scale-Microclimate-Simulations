@@ -5,20 +5,11 @@
 
 ## Abstract
 
-Urban microclimatic analysis is essential in addressing challenges of urbanization and climate change, particularly the Urban
-Heat Island (UHI) effect. Urban areas often experience significantly higher temperatures than their rural surroundings due to
-the concentration of built surfaces and reduced vegetation. Studies estimate that UHI can increase daytime temperatures in  U.S.
-cities by approximately 1°C to 7°C and night-time temperatures by about 2°C to 5°C (Drukenmiller, 2024). 
+Urban microclimatic analysis is essential in addressing challenges of urbanization and climate change, particularly the Urban Heat Island (UHI) effect. Urban areas often experience significantly higher temperatures than their rural surroundings due to the concentration of built surfaces and reduced vegetation. Studies estimate that UHI can increase daytime temperatures in  U.S. cities by approximately 1°C to 7°C and night-time temperatures by about 2°C to 5°C (Drukenmiller, 2024). 
 
-This research introduces canonical urban geometries to bridge the gap between theoretical microclimatic principles
-and practical urban design applications. Developed through a systematic study of urban typologies, these geometries represent
-diverse layouts, incorporating metrics like Sky View Factor (SVF), Aspect Ratio (AR), and Vegetation Cover.
+This research introduces canonical urban geometries to bridge the gap between theoretical microclimatic principles and practical urban design applications. Developed through a systematic study of urban typologies, these geometries represent diverse layouts, incorporating metrics like Sky View Factor (SVF), Aspect Ratio (AR), and Vegetation Cover.
 
-Unlike traditional EPW files, which lack the granularity required for microclimatic precision, this approach enhances simulation
-accuracy by integrating localized urban configurations. Canonical geometries capture critical interactions between urban form
-and environmental factors, enabling comprehensive evaluations of wind flow, heat retention, and cooling strategies. Through
-a comparative analysis of global urban layouts, this research demonstrates how tailored geometries can inform sustainable
-design interventions, mitigate UHI impacts, and optimize urban energy performance.
+Unlike traditional EPW files, which lack the granularity required for microclimatic precision, this approach enhances simulation accuracy by integrating localized urban configurations. Canonical geometries capture critical interactions between urban form and environmental factors, enabling comprehensive evaluations of wind flow, heat retention, and cooling strategies. Through a comparative analysis of global urban layouts, this research demonstrates how tailored geometries can inform sustainable design interventions, mitigate UHI impacts, and optimize urban energy performance.
 
 ## Author
 
