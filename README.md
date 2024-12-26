@@ -39,7 +39,7 @@ Unlike traditional EPW files, which lack the granularity required for microclima
 
 
 ```bibtex
-@masterthesis{jadhav2024baseline,
+@mastersthesis{jadhav2024baseline,
     author = {Jadhav, S.},
     title = {{BASELINE}: {Benchmarking} {Scenarios} for {Environmental} {Layouts} and {Integrative} {Neighbourhood} {Evaluation}},
     institution = {Georgia Institute of Technology},
