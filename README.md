@@ -37,7 +37,16 @@ Unlike traditional EPW files, which lack the granularity required for microclima
 
 ## Citation
 
-Jadhav, S. (2024). BASELINE: Benchmarking Scenarios for Environmental Layouts and Integrative Neighbourhood Evaluation. Georgia Institute of Technology.
+
+```bibtex
+@masterthesis{jadhav2024baseline,
+    author = {Jadhav, S.},
+    title = {{BASELINE}: {Benchmarking} {Scenarios} for {Environmental} {Layouts} and {Integrative} {Neighbourhood} {Evaluation}},
+    institution = {Georgia Institute of Technology},
+    year = {2024}
+}
+```
+
 
 ## Contact
 
