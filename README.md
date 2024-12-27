@@ -1,6 +1,7 @@
 # BASELINE: Benchmarking Scenarios for Environmental Layouts and Integrative Neighbourhood Evaluation
 
-<img src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-Benchmark-Cases-for-Urban-Scale-Microclimate-Simulations/main/Figures/GraphicalAbstract.png" width="500px">
+![Graphical Abstract](https://github.com/user-attachments/assets/f801eed5-b7c0-4379-8c43-908711a4ea0f)
+
 
 ## Abstract
 
