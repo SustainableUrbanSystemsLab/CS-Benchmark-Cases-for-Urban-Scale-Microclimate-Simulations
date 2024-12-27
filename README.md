@@ -14,19 +14,16 @@ Unlike traditional EPW files, which lack the granularity required for microclima
 
 - Name: Shruti Sharad Jadhav
 - Email: sjadhav60@gatech.edu
-- Linkedin: https://www.linkedin.com/in/shrutijadhav2703/
+- Linkedin: [Link] (https://www.linkedin.com/in/shrutijadhav2703/)
 - Institution: Georgia Institute of Technology
 - Program: M.S. Arch (High Performance Building)
 - Supervisor: Dr. Patrick Kastner
   
 ## Repository Structure
 
-- `thesis.pdf`: The final version of the thesis in PDF format.
-- `code/`: Directory containing the code, scripts, or notebooks used in the research.
-- `data/`: Directory containing the dataset(s) used in the research (if applicable and not confidential).
-- `figures/`: Directory containing the figures, plots, or visualizations generated during the research.
+- `Shruti- BASELINE`: The final version of the thesis in PDF format..
+- `figures/`: Directory containing the canonical geometries developed during this research.
 - `references/`: Directory containing the bibliography or references cited in the thesis.
-- `appendices/`: Directory containing additional materials, supplementary information, or appendices.
 - `README.md`: This file, provides an overview of the thesis and repository.
 
 ## Keywords
