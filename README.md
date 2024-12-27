@@ -14,7 +14,7 @@ Unlike traditional EPW files, which lack the granularity required for microclima
 
 - Name: Shruti Sharad Jadhav
 - Email: sjadhav60@gatech.edu
-- Linkedin: [Link] (https://www.linkedin.com/in/shrutijadhav2703/)
+- Linkedin: [Link](https://www.linkedin.com/in/shrutijadhav2703/)
 - Institution: Georgia Institute of Technology
 - Program: M.S. Arch (High Performance Building)
 - Supervisor: Dr. Patrick Kastner
