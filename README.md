@@ -1,7 +1,6 @@
 # BASELINE: Benchmarking Scenarios for Environmental Layouts and Integrative Neighbourhood Evaluation
 
-![Graphical Abstract](https://github.com/user-attachments/assets/f801eed5-b7c0-4379-8c43-908711a4ea0f)
-
+![Graphical Abstract](Figures/GraphicalAbstract.png)
 
 ## Abstract
 
@@ -31,10 +30,7 @@ Unlike traditional EPW files, which lack the granularity required for microclima
 
 `Urban Geometries`, `Urban Microclimate`, `Microclimate Simulation`, `Heat Retention`, `Thermal Comfort`
 
-
-
 ## Citation
-
 
 ```bibtex
 @mastersthesis{jadhav2024baseline,
@@ -44,7 +40,6 @@ Unlike traditional EPW files, which lack the granularity required for microclima
     year = {2024}
 }
 ```
-
 
 ## Contact
 
