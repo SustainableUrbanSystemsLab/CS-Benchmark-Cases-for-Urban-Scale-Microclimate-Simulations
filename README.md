@@ -21,9 +21,8 @@ Unlike traditional EPW files, which lack the granularity required for microclima
   
 ## Repository Structure
 
-- `Shruti-BASELINE`: The final version of the thesis in PDF format.
-- `figures/`: Directory containing the canonical geometries developed during this research.
-- `references/`: Directory containing the bibliography or references cited in the thesis.
+- `Shruti-BASELINE.pdf`: The final version of the thesis in PDF format.
+- `Geometries/`: Directory containing the canonical geometries developed during this research.
 - `README.md`: This file, provides an overview of the thesis and repository.
 
 ## Keywords
